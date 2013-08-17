@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SlidelyCam/SlidelyCam.iml" filepath="$PROJECT_DIR$/SlidelyCam/SlidelyCam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidelyCam2Project.iml" filepath="$PROJECT_DIR$/SlidelyCam2Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidelyCamProject.iml" filepath="$PROJECT_DIR$/SlidelyCamProject.iml" />
+    </modules>
+  </component>
+</project>
+
